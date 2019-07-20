@@ -24,7 +24,6 @@ cd camagru
 php -S localhost:8080
 navigate to http://localhost:8080/config/setup.php
 navigate to http://localhost:8080/
-...
 ```
 
 ## Features
