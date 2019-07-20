@@ -13,15 +13,14 @@ Follow these instructions to get a copy of the project and run it on your local 
 
 ```
 php 7
-mysql
-sendmail
+mysql 14
 ```
 
 
 ### Installing
 ```
-git clone 
-cd 
+git clone https://github.com/Seren4/camagru.git
+cd camagru
 php -S localhost:8080
 navigate to http://localhost:8080/config/setup.php
 navigate to http://localhost:8080/
@@ -59,9 +58,9 @@ navigate to http://localhost:8080/
 
 
 ### Mobile Version
-<img alt="Home mobile" src="./readme_img/mobile1.png" width="50%" title="Home mobile">
-<img alt="Home mobile" src="./readme_img/mobile2.png" width="50%" title="Home mobile">
-<img alt="Gallery mobile" src="./readme_img/mobile3.png" width="50%" title="Gallery mobile">
+<img alt="Home mobile" src="./readme_img/mobile1.png" width="40%" title="Home mobile">
+<img alt="Home mobile" src="./readme_img/mobile2.png" width="40%" title="Home mobile">
+<img alt="Gallery mobile" src="./readme_img/mobile3.png" width="40%" title="Gallery mobile">
 
 
 ## Built with
