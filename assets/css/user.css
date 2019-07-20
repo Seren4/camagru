@@ -1,0 +1,14 @@
+
+.form_error
+{
+    display:none;
+    /*width: 100%!important;*/
+    /*margin:0!important;*/
+    /*background-color: darkred!important;*/
+    color: #ab0000;
+    /*padding: 14px 20px;*/
+    /*border: none;*/
+    /*width: 100%;*/
+    /*text-align:center;*/
+}
+

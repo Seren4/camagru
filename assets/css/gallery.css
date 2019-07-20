@@ -1,0 +1,19 @@
+
+.count_btn
+{
+    cursor: auto!important;
+    background-color: transparent!important;
+    color: #44895c;
+}
+.like_btn, .comm_btn
+{
+    margin: 5%;
+}
+
+.like_btn:hover, .comm_btn:hover
+
+{
+    opacity: 0.4!important;
+    cursor: pointer;
+}
+
